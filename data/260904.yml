@@ -1,0 +1,65 @@
+about:
+  description:
+  |
+    Dockerfile linter, validate inline bash, written in Haskell
+  license: GPL-3.0
+  homepage: 
+  head: 2bd38b6
+  archived: false
+  latestVersion: v2.15.1
+  collectedAt: 2026-09-04T04:44:57Z
+timeline:
+  created: 2015-11-15
+  lastCommit: 2026-08-24
+  lastRelease: 2026-07-31
+popularity:
+  star: 12384
+  watcher: 68
+  fork: 501
+  release: 83
+  contributor: 136
+  pullRequest: 83
+  issue: 689
+language:
+  Haskell: 450141
+  Shell: 6156
+  HTML: 4941
+  SCSS: 4176
+  Nix: 3098
+  JavaScript: 2615
+  CSS: 2568
+  Dockerfile: 516
+totalBytes: 474211
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 7
+    openPR: 3
+    closedIssue: 0
+    openIssue: 5
+    commit: 16
+  last90d:
+    since: 2026-06-06
+    release: 2
+    mergedPR: 26
+    openPR: 3
+    closedIssue: 8
+    openIssue: 8
+    commit: 52
+  last180d:
+    since: 2026-03-08
+    release: 2
+    mergedPR: 48
+    openPR: 4
+    closedIssue: 13
+    openIssue: 12
+    commit: 83
+  last360d:
+    since: 2025-09-09
+    release: 3
+    mergedPR: 63
+    openPR: 10
+    closedIssue: 22
+    openIssue: 22
+    commit: 114
