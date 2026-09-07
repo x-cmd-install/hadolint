@@ -5,13 +5,13 @@ about:
   head: 2bd38b6
   archived: false
   latestVersion: "v2.15.1"
-  collectedAt: 2026-09-07T03:26:50Z
+  collectedAt: 2026-09-07T20:10:52Z
 timeline:
   created: 2015-11-15
   lastCommit: 2026-08-24
   lastRelease: 2026-07-31
 popularity:
-  star: 12387
+  star: 12388
   watcher: 69
   fork: 501
   release: 83
@@ -86,7 +86,7 @@ total:
   commit: 1420
 ---
 path: /home/runner/.x-repo/github.com/hadolint/hadolint
-collectedAt: 2026-09-07T03:26:52Z
+collectedAt: 2026-09-07T20:10:54Z
 loc:
   Haskell:
     code: 10974
@@ -309,7 +309,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/release.yml:268'
 ---
 eget:
-  collectedAt: 2026-09-07T03:26:52+00:00
+  collectedAt: 2026-09-07T20:10:55+00:00
   platform:
     darwin/arm64:
       name:  hadolint-macos-arm64
