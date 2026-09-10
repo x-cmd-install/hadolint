@@ -22,23 +22,33 @@ x install hadolint
 - **Latest**: `v2.15.1` (2026-07-31)
 - **Last commit**: 2026-08-24
 - **Assets in release**: 6
-- **Published**: 2026-07-31T10:13:06Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.sha256](https://github.com/hadolint/hadolint/releases/download/v2.15.1/checksums.sha256) | 444 B | `other` |
+| [hadolint-linux-arm64](https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-linux-arm64) | 57.7 MiB | `native/linux/arm64` |
+| [hadolint-linux-x86_64](https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-linux-x86_64) | 53.1 MiB | `native/linux/x64` |
+| [hadolint-macos-arm64](https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-macos-arm64) | 97.9 MiB | `native/darwin/arm64` |
+| [hadolint-macos-x86_64](https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-macos-x86_64) | 22.3 MiB | `native/darwin/x64` |
+| [hadolint-windows-x86_64.exe](https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-windows-x86_64.exe) | 81.4 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 12,396 · **Forks**: 501 · **Open issues**: 690 · **Contributors**: 136
+- **Stars**: 12,397 · **Forks**: 502 · **Open issues**: 690 · **Contributors**: 136
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 473 · **Open PRs**: 15 · **Closed issues**: 499 · **Open issues**: 191 · **Commits**: 1420
+- **Releases**: 83 · **Merged PRs**: 473 · **Open PRs**: 16 · **Closed issues**: 499 · **Open issues**: 191 · **Commits**: 1420
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 4 | 3 | 0 | 5 | 4 |
-| 90d | 2026-06-12 | 2 | 23 | 3 | 8 | 9 | 48 |
-| 360d | 2025-09-15 | 3 | 62 | 10 | 22 | 23 | 113 |
+| 30d | 2026-08-11 | 0 | 4 | 4 | 0 | 5 | 4 |
+| 90d | 2026-06-12 | 2 | 23 | 4 | 8 | 9 | 48 |
+| 360d | 2025-09-15 | 3 | 62 | 11 | 22 | 23 | 113 |
 
 ## Code size
 
@@ -67,8 +77,8 @@ Lowest-scoring checks:
 Install metadata for hadolint lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hadolint` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/hadolint.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/hadolint.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:34:33Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:59:13Z._
