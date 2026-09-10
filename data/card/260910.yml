@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.15.1"
   latestRelease: "v2.15.1"
   latestPrerelease: "v2.12.1-beta"
-  collectedAt: 2026-09-10T20:13:38Z
+  collectedAt: 2026-09-10T23:39:06Z
 timeline:
   created: 2015-11-15
   lastCommit: 2026-08-24
@@ -90,7 +90,7 @@ total:
   commit: 1420
 ---
 path: /home/runner/.x-repo/github.com/hadolint/hadolint
-collectedAt: 2026-09-10T20:13:40Z
+collectedAt: 2026-09-10T23:39:07Z
 loc:
   Haskell:
     code: 10974
