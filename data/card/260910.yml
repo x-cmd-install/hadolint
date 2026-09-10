@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.15.1"
   latestRelease: "v2.15.1"
   latestPrerelease: "v2.12.1-beta"
-  collectedAt: 2026-09-10T15:59:08Z
+  collectedAt: 2026-09-10T20:13:38Z
 timeline:
   created: 2015-11-15
   lastCommit: 2026-08-24
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-31
   lastPrerelease: 2022-11-14
 popularity:
-  star: 12397
+  star: 12398
   watcher: 69
   fork: 502
   release: 83
@@ -90,7 +90,7 @@ total:
   commit: 1420
 ---
 path: /home/runner/.x-repo/github.com/hadolint/hadolint
-collectedAt: 2026-09-10T15:59:09Z
+collectedAt: 2026-09-10T20:13:40Z
 loc:
   Haskell:
     code: 10974
