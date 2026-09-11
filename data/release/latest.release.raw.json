@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 444,
       "digest": "sha256:4d09c27d4f8151c586b83a9390eaa5843b1e2af2a67df61a53b18b2df4c769d4",
-      "download_count": 14398,
+      "download_count": 14456,
       "created_at": "2026-07-31T10:10:13Z",
       "updated_at": "2026-07-31T10:10:13Z",
       "browser_download_url": "https://github.com/hadolint/hadolint/releases/download/v2.15.1/checksums.sha256"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 60491096,
       "digest": "sha256:f6198ef8090f404dbb771abfee086eb8c48ac177f30da7fd3510aca35b344b5d",
-      "download_count": 41620,
+      "download_count": 41891,
       "created_at": "2026-07-31T10:10:13Z",
       "updated_at": "2026-07-31T10:10:16Z",
       "browser_download_url": "https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-linux-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 55661096,
       "digest": "sha256:c7187db94eeeeca956519a6af171adc31453941a1e777961f6e680f697c8c507",
-      "download_count": 494441,
+      "download_count": 496801,
       "created_at": "2026-07-31T10:10:13Z",
       "updated_at": "2026-07-31T10:10:16Z",
       "browser_download_url": "https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-linux-x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 102616248,
       "digest": "sha256:5c09f3213f8e40406abe048233d985eebef336d4a6a20021be47fadb6cf480a2",
-      "download_count": 21771,
+      "download_count": 21923,
       "created_at": "2026-07-31T10:10:13Z",
       "updated_at": "2026-07-31T10:10:17Z",
       "browser_download_url": "https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-macos-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 23407592,
       "digest": "sha256:ffe9bb18b23d5ed1eae50237aecdbb523d016e96da0bd4e7aa432040acfc3fde",
-      "download_count": 1272,
+      "download_count": 1323,
       "created_at": "2026-07-31T10:10:13Z",
       "updated_at": "2026-07-31T10:10:15Z",
       "browser_download_url": "https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-macos-x86_64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 85316096,
       "digest": "sha256:01d927294962b5387f9ead4f18679158452be4f17c765ad0bdffe5264b9c7b0a",
-      "download_count": 8534,
+      "download_count": 8630,
       "created_at": "2026-07-31T10:10:13Z",
       "updated_at": "2026-07-31T10:10:17Z",
       "browser_download_url": "https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-windows-x86_64.exe"
