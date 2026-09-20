@@ -4,7 +4,7 @@
 
 Dockerfile linter, validate inline bash, written in Haskell
 
-![hadolint](https://repo.x-cmd.io/hadolint.svg)
+[![x-cmd/install — hadolint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hadolint.svg)](https://x-cmd.com/install/hadolint)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,413 · **Forks**: 502 · **Open issues**: 691 · **Contributors**: 136
+- **Stars**: 12,419 · **Forks**: 502 · **Open issues**: 691 · **Contributors**: 136
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 4 | 1 | 3 | 1 |
-| last60d | 2026-07-20 | 2 | 16 | 4 | 7 | 8 | 39 |
-| 90d | 2026-06-20 | 2 | 21 | 4 | 7 | 9 | 46 |
-| last180d | 2026-03-22 | 2 | 45 | 5 | 12 | 13 | 83 |
-| 360d | 2025-09-23 | 2 | 59 | 11 | 21 | 22 | 108 |
-| last720d | 2024-09-28 | 4 | 87 | 13 | 52 | 42 | 281 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 1 | 3 | 1 |
+| last60d | 2026-07-22 | 2 | 16 | 4 | 7 | 8 | 39 |
+| 90d | 2026-06-22 | 2 | 19 | 4 | 7 | 9 | 46 |
+| last180d | 2026-03-24 | 2 | 45 | 5 | 12 | 13 | 83 |
+| 360d | 2025-09-25 | 2 | 59 | 10 | 21 | 20 | 108 |
+| last720d | 2024-09-30 | 4 | 87 | 13 | 52 | 42 | 281 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for hadolint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:42:10Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:55:03Z._
