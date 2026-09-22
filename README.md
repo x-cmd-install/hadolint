@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,419 · **Forks**: 502 · **Open issues**: 691 · **Contributors**: 136
+- **Stars**: 12,421 · **Forks**: 501 · **Open issues**: 691 · **Contributors**: 136
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 4 | 1 | 3 | 0 |
-| last60d | 2026-07-23 | 2 | 16 | 4 | 7 | 8 | 39 |
-| 90d | 2026-06-23 | 2 | 19 | 4 | 7 | 9 | 43 |
-| last180d | 2026-03-25 | 2 | 45 | 5 | 12 | 13 | 83 |
-| 360d | 2025-09-26 | 2 | 59 | 10 | 21 | 20 | 106 |
-| last720d | 2024-10-01 | 4 | 87 | 13 | 51 | 42 | 281 |
+| 30d | 2026-08-23 | 0 | 0 | 4 | 1 | 3 | 0 |
+| last60d | 2026-07-24 | 2 | 16 | 4 | 7 | 8 | 39 |
+| 90d | 2026-06-24 | 2 | 19 | 4 | 7 | 9 | 43 |
+| last180d | 2026-03-26 | 2 | 45 | 5 | 12 | 13 | 83 |
+| 360d | 2025-09-27 | 2 | 59 | 10 | 21 | 20 | 106 |
+| last720d | 2024-10-02 | 4 | 87 | 13 | 51 | 42 | 281 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for hadolint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T03:52:05Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T03:49:03Z._
