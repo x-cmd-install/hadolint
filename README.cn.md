@@ -14,14 +14,14 @@ x install hadolint
 
 ## 代码洞察
 
-合计: **13,401** 行代码（覆盖前 5 种语言、共 **194** 个文件）。
+合计: **13,589** 行代码（覆盖前 5 种语言、共 **196** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Haskell | 11,060 | 274 | 1,590 | 187 |
+| Haskell | 11,233 | 307 | 1,617 | 189 |
 | Svg | 749 | 0 | 0 | 1 |
-| Json | 653 | 0 | 0 | 1 |
-| Cabal | 355 | 0 | 21 | 1 |
+| Json | 658 | 0 | 0 | 1 |
+| Cabal | 357 | 0 | 21 | 1 |
 | Sass | 182 | 20 | 32 | 4 |
 
 ## OpenSSF Scorecard 评分
@@ -30,7 +30,7 @@ x install hadolint
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 3/20 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 4/21 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,27 +42,27 @@ x install hadolint
 ## 发布
 
 - **最新版本**: `v2.15.1` (2026-07-31)
-- **最近提交**: 2026-09-25
+- **最近提交**: 2026-10-13
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 12,469 · **Fork**: 508 · **开放 issue**: 693 · **贡献者**: 137
+- **Star**: 12,471 · **Fork**: 508 · **开放 issue**: 693 · **贡献者**: 138
 
 ## 累计统计
 
-- **发布数**: 83 · **已合并 PR**: 474 · **开放 PR**: 18 · **已关闭 issue**: 503 · **开放 issue**: 190 · **提交数**: 1423
+- **发布数**: 83 · **已合并 PR**: 477 · **开放 PR**: 20 · **已关闭 issue**: 514 · **开放 issue**: 179 · **提交数**: 1427
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 3 | 0 | 1 | 1 |
-| last60d | 2026-08-14 | 0 | 3 | 6 | 2 | 4 | 3 |
-| 90d | 2026-07-15 | 2 | 18 | 6 | 8 | 9 | 42 |
-| last180d | 2026-04-16 | 2 | 46 | 6 | 15 | 11 | 83 |
-| 360d | 2025-10-18 | 2 | 59 | 12 | 23 | 17 | 105 |
-| last720d | 2024-10-23 | 4 | 84 | 15 | 51 | 40 | 283 |
+| 30d | 2026-09-14 | 0 | 1 | 13 | 0 | 1 | 5 |
+| last60d | 2026-08-15 | 0 | 4 | 15 | 2 | 4 | 7 |
+| 90d | 2026-07-16 | 2 | 19 | 15 | 8 | 9 | 46 |
+| last180d | 2026-04-17 | 2 | 47 | 15 | 15 | 11 | 87 |
+| 360d | 2025-10-19 | 2 | 60 | 18 | 24 | 15 | 109 |
+| last720d | 2024-10-24 | 4 | 86 | 20 | 56 | 35 | 287 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ hadolint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T05:54:32Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T03:57:28Z._

@@ -14,14 +14,14 @@ x install hadolint
 
 ## Code insight
 
-Total: **13,401** lines of code across **194** files in the top 5 languages.
+Total: **13,589** lines of code across **196** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Haskell | 11,060 | 274 | 1,590 | 187 |
+| Haskell | 11,233 | 307 | 1,617 | 189 |
 | Svg | 749 | 0 | 0 | 1 |
-| Json | 653 | 0 | 0 | 1 |
-| Cabal | 355 | 0 | 21 | 1 |
+| Json | 658 | 0 | 0 | 1 |
+| Cabal | 357 | 0 | 21 | 1 |
 | Sass | 182 | 20 | 32 | 4 |
 
 ## OpenSSF Scorecard
@@ -30,7 +30,7 @@ Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/20 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 4/21 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.15.1` (2026-07-31)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-10-13
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 12,469 · **Forks**: 508 · **Open issues**: 693 · **Contributors**: 137
+- **Stars**: 12,471 · **Forks**: 508 · **Open issues**: 693 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 474 · **Open PRs**: 18 · **Closed issues**: 503 · **Open issues**: 190 · **Commits**: 1423
+- **Releases**: 83 · **Merged PRs**: 477 · **Open PRs**: 20 · **Closed issues**: 514 · **Open issues**: 179 · **Commits**: 1427
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 3 | 0 | 1 | 1 |
-| last60d | 2026-08-14 | 0 | 3 | 6 | 2 | 4 | 3 |
-| 90d | 2026-07-15 | 2 | 18 | 6 | 8 | 9 | 42 |
-| last180d | 2026-04-16 | 2 | 46 | 6 | 15 | 11 | 83 |
-| 360d | 2025-10-18 | 2 | 59 | 12 | 23 | 17 | 105 |
-| last720d | 2024-10-23 | 4 | 84 | 15 | 51 | 40 | 283 |
+| 30d | 2026-09-14 | 0 | 1 | 13 | 0 | 1 | 5 |
+| last60d | 2026-08-15 | 0 | 4 | 15 | 2 | 4 | 7 |
+| 90d | 2026-07-16 | 2 | 19 | 15 | 8 | 9 | 46 |
+| last180d | 2026-04-17 | 2 | 47 | 15 | 15 | 11 | 87 |
+| 360d | 2025-10-19 | 2 | 60 | 18 | 24 | 15 | 109 |
+| last720d | 2024-10-24 | 4 | 86 | 20 | 56 | 35 | 287 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for hadolint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T05:54:31Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T03:57:27Z._
