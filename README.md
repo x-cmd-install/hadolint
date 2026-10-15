@@ -14,11 +14,11 @@ x install hadolint
 
 ## Code insight
 
-Total: **13,589** lines of code across **196** files in the top 5 languages.
+Total: **13,681** lines of code across **196** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Haskell | 11,233 | 307 | 1,617 | 189 |
+| Haskell | 11,325 | 309 | 1,612 | 189 |
 | Svg | 749 | 0 | 0 | 1 |
 | Json | 658 | 0 | 0 | 1 |
 | Cabal | 357 | 0 | 21 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.15.1` (2026-07-31)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 12,471 · **Forks**: 508 · **Open issues**: 693 · **Contributors**: 138
+- **Stars**: 12,477 · **Forks**: 508 · **Open issues**: 693 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 477 · **Open PRs**: 20 · **Closed issues**: 514 · **Open issues**: 179 · **Commits**: 1427
+- **Releases**: 83 · **Merged PRs**: 482 · **Open PRs**: 15 · **Closed issues**: 516 · **Open issues**: 177 · **Commits**: 1437
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 1 | 13 | 0 | 1 | 5 |
-| last60d | 2026-08-15 | 0 | 4 | 15 | 2 | 4 | 7 |
-| 90d | 2026-07-16 | 2 | 19 | 15 | 8 | 9 | 46 |
-| last180d | 2026-04-17 | 2 | 47 | 15 | 15 | 11 | 87 |
-| 360d | 2025-10-19 | 2 | 60 | 18 | 24 | 15 | 109 |
-| last720d | 2024-10-24 | 4 | 86 | 20 | 56 | 35 | 287 |
+| 30d | 2026-09-15 | 0 | 6 | 8 | 0 | 1 | 10 |
+| last60d | 2026-08-16 | 0 | 9 | 10 | 2 | 4 | 12 |
+| 90d | 2026-07-17 | 2 | 23 | 10 | 8 | 9 | 51 |
+| last180d | 2026-04-18 | 2 | 52 | 10 | 15 | 11 | 92 |
+| 360d | 2025-10-20 | 2 | 65 | 13 | 24 | 15 | 114 |
+| last720d | 2024-10-25 | 4 | 91 | 15 | 56 | 35 | 297 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for hadolint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T03:57:27Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T03:39:08Z._
