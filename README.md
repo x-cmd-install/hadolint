@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 6 | 9 | 0 | 2 | 10 |
-| last60d | 2026-08-17 | 0 | 8 | 11 | 2 | 4 | 12 |
-| 90d | 2026-07-18 | 2 | 23 | 11 | 8 | 10 | 51 |
-| last180d | 2026-04-19 | 2 | 52 | 11 | 15 | 12 | 92 |
-| 360d | 2025-10-21 | 2 | 65 | 14 | 24 | 15 | 114 |
-| last720d | 2024-10-26 | 4 | 91 | 16 | 56 | 36 | 297 |
+| 30d | 2026-09-17 | 0 | 6 | 9 | 0 | 2 | 10 |
+| last60d | 2026-08-18 | 0 | 7 | 11 | 2 | 4 | 12 |
+| 90d | 2026-07-19 | 2 | 23 | 11 | 8 | 10 | 51 |
+| last180d | 2026-04-20 | 2 | 52 | 11 | 15 | 12 | 92 |
+| 360d | 2025-10-22 | 2 | 65 | 14 | 24 | 15 | 114 |
+| last720d | 2024-10-27 | 4 | 91 | 16 | 56 | 36 | 297 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for hadolint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T03:35:19Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T03:25:26Z._
