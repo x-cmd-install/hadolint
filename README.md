@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,489 · **Forks**: 510 · **Open issues**: 694 · **Contributors**: 140
+- **Stars**: 12,490 · **Forks**: 510 · **Open issues**: 694 · **Contributors**: 140
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 11 | 4 | 0 | 2 | 15 |
-| last60d | 2026-08-23 | 0 | 12 | 6 | 2 | 4 | 16 |
-| 90d | 2026-07-24 | 2 | 28 | 6 | 9 | 8 | 55 |
-| last180d | 2026-04-25 | 2 | 56 | 6 | 15 | 11 | 93 |
-| 360d | 2025-10-27 | 2 | 70 | 9 | 25 | 14 | 119 |
-| last720d | 2024-11-01 | 4 | 96 | 11 | 57 | 35 | 302 |
+| 30d | 2026-09-23 | 0 | 11 | 4 | 0 | 2 | 15 |
+| last60d | 2026-08-24 | 0 | 12 | 6 | 2 | 3 | 16 |
+| 90d | 2026-07-25 | 2 | 28 | 6 | 9 | 8 | 55 |
+| last180d | 2026-04-26 | 2 | 56 | 6 | 15 | 11 | 93 |
+| 360d | 2025-10-28 | 2 | 70 | 9 | 25 | 14 | 119 |
+| last720d | 2024-11-02 | 4 | 96 | 11 | 57 | 35 | 302 |
 
 ## Release assets
 
@@ -75,6 +75,16 @@ Lowest-scoring checks:
 | [hadolint-macos-x86_64](https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-macos-x86_64) | 22.3 MiB | `native/darwin/x64` |
 | [hadolint-windows-x86_64.exe](https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-windows-x86_64.exe) | 81.4 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **30** distros on [repology.org](https://repology.org/project/hadolint). **7** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.15.1` | ✅ latest |
+| Fedora rawhide | `2.15.1` | ✅ latest |
+| Nix unstable | `2.14.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for hadolint lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hadolint` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +94,4 @@ Install metadata for hadolint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T03:43:26Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T03:48:00Z._
