@@ -48,7 +48,7 @@
   status: rolling
   summary: Dockerfile linter, validate inline bash
   maintainers:
-    - fallback-mnt-aur@repology
+    - jasonlandbridge@aur
   licenses:
     - GPL
 - repo: chocolatey
@@ -78,25 +78,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: hadolint
-  binnames:
-    - hadolint
-    - ghc-hadolint
-    - ghc-hadolint-devel
-    - ghc-hadolint-prof
-    - hadolint-debuginfo
-    - hadolint-debugsource
-  visiblename: hadolint
-  version: 2.12.0
-  origversion: 2.12.0-15.fc40
-  status: outdated
-  summary: Dockerfile linter, validate inline bash
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: release
   srcname: hadolint
   binnames:
@@ -109,6 +90,25 @@
   visiblename: hadolint
   version: 2.12.0
   origversion: 2.12.0-14.fc40
+  status: outdated
+  summary: Dockerfile linter, validate inline bash
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: hadolint
+  binnames:
+    - hadolint
+    - ghc-hadolint
+    - ghc-hadolint-devel
+    - ghc-hadolint-prof
+    - hadolint-debuginfo
+    - hadolint-debugsource
+  visiblename: hadolint
+  version: 2.12.0
+  origversion: 2.12.0-15.fc40
   status: outdated
   summary: Dockerfile linter, validate inline bash
   licenses:
@@ -224,19 +224,6 @@
     - GPL-3.0-or-later
   categories:
     - Unspecified
-- repo: nix_stable_26_05
-  srcname: haskellPackages.hadolint
-  visiblename: hadolint
-  version: 2.14.0
-  origversion: null
-  status: outdated
-  summary: Dockerfile Linter JavaScript API
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - haskellPackages
 - repo: fedora_rawhide
   subrepo: development
   srcname: hadolint
@@ -314,7 +301,7 @@
   categories:
     - devel
 - repo: nix_stable_24_05
-  srcname: hadolint
+  srcname: haskellPackages.hadolint
   visiblename: hadolint
   version: 2.12.0
   origversion: null
@@ -324,8 +311,10 @@
     - fallback-mnt-nix@repology
   licenses:
     - GPL-3.0-only
+  categories:
+    - haskellPackages
 - repo: nix_stable_24_05
-  srcname: haskellPackages.hadolint
+  srcname: hadolint
   visiblename: hadolint
   version: 2.12.0
   origversion: null
@@ -335,21 +324,6 @@
     - fallback-mnt-nix@repology
   licenses:
     - GPL-3.0-only
-  categories:
-    - haskellPackages
-- repo: nix_stable_24_11
-  srcname: haskellPackages.hadolint
-  visiblename: hadolint
-  version: 2.12.0
-  origversion: null
-  status: outdated
-  summary: Dockerfile Linter JavaScript API
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - haskellPackages
 - repo: nix_stable_24_11
   srcname: hadolint
   visiblename: hadolint
@@ -361,6 +335,19 @@
     - fallback-mnt-nix@repology
   licenses:
     - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: haskellPackages.hadolint
+  visiblename: hadolint
+  version: 2.12.0
+  origversion: null
+  status: outdated
+  summary: Dockerfile Linter JavaScript API
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - haskellPackages
 - repo: nix_stable_25_05
   srcname: haskellPackages.hadolint
   visiblename: hadolint
@@ -420,6 +407,19 @@
     - fallback-mnt-nix@repology
   licenses:
     - GPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: haskellPackages.hadolint
+  visiblename: hadolint
+  version: 2.14.0
+  origversion: null
+  status: outdated
+  summary: Dockerfile Linter JavaScript API
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - haskellPackages
 - repo: nix_unstable
   srcname: haskellPackages.hadolint
   visiblename: hadolint
