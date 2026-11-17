@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,534 · **Forks**: 514 · **Open issues**: 696 · **Contributors**: 140
+- **Stars**: 12,538 · **Forks**: 515 · **Open issues**: 696 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 487 · **Open PRs**: 21 · **Closed issues**: 520 · **Open issues**: 176 · **Commits**: 1442
+- **Releases**: 83 · **Merged PRs**: 487 · **Open PRs**: 19 · **Closed issues**: 520 · **Open issues**: 176 · **Commits**: 1442
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 10 | 0 | 2 | 0 |
-| last60d | 2026-09-17 | 0 | 11 | 14 | 0 | 4 | 15 |
-| 90d | 2026-08-18 | 0 | 12 | 16 | 2 | 6 | 17 |
-| last180d | 2026-05-20 | 2 | 40 | 16 | 13 | 13 | 72 |
-| 360d | 2025-11-21 | 2 | 70 | 19 | 22 | 16 | 119 |
-| last720d | 2024-11-26 | 4 | 95 | 21 | 55 | 34 | 302 |
+| 30d | 2026-10-18 | 0 | 0 | 8 | 0 | 2 | 0 |
+| last60d | 2026-09-18 | 0 | 11 | 12 | 0 | 4 | 15 |
+| 90d | 2026-08-19 | 0 | 12 | 14 | 2 | 6 | 17 |
+| last180d | 2026-05-21 | 2 | 40 | 14 | 13 | 13 | 72 |
+| 360d | 2025-11-22 | 2 | 70 | 17 | 22 | 16 | 119 |
+| last720d | 2024-11-27 | 4 | 95 | 19 | 55 | 34 | 302 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **32** distros on [repology.org](https://repology.org/project/hadolint). **8** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **34** distros on [repology.org](https://repology.org/project/hadolint). **9** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for hadolint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T05:19:55Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T06:59:26Z._
