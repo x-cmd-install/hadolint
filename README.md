@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,543 · **Forks**: 514 · **Open issues**: 698 · **Contributors**: 140
+- **Stars**: 12,544 · **Forks**: 514 · **Open issues**: 698 · **Contributors**: 140
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 0 | 9 | 0 | 4 | 0 |
-| last60d | 2026-09-23 | 0 | 11 | 13 | 0 | 6 | 15 |
-| 90d | 2026-08-24 | 0 | 12 | 15 | 2 | 7 | 17 |
-| last180d | 2026-05-26 | 2 | 39 | 15 | 13 | 15 | 72 |
-| 360d | 2025-11-27 | 2 | 70 | 18 | 22 | 18 | 119 |
-| last720d | 2024-12-02 | 4 | 95 | 20 | 55 | 36 | 302 |
+| 30d | 2026-10-24 | 0 | 0 | 9 | 0 | 4 | 0 |
+| last60d | 2026-09-24 | 0 | 11 | 13 | 0 | 6 | 14 |
+| 90d | 2026-08-25 | 0 | 12 | 14 | 2 | 7 | 16 |
+| last180d | 2026-05-27 | 2 | 39 | 15 | 13 | 15 | 70 |
+| 360d | 2025-11-28 | 2 | 69 | 18 | 22 | 18 | 118 |
+| last720d | 2024-12-03 | 4 | 95 | 20 | 55 | 35 | 302 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **34** distros on [repology.org](https://repology.org/project/hadolint). **9** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **34** distros on [repology.org](https://repology.org/project/hadolint). **10** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for hadolint lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T05:36:57Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T06:18:07Z._
