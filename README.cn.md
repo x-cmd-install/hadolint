@@ -32,7 +32,7 @@ x install hadolint
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install hadolint
 
 ## 流行度
 
-- **Star**: 12,544 · **Fork**: 514 · **开放 issue**: 698 · **贡献者**: 140
+- **Star**: 12,547 · **Fork**: 514 · **开放 issue**: 698 · **贡献者**: 140
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install hadolint
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 9 | 0 | 4 | 0 |
-| last60d | 2026-09-24 | 0 | 11 | 13 | 0 | 6 | 14 |
-| 90d | 2026-08-25 | 0 | 12 | 14 | 2 | 7 | 16 |
-| last180d | 2026-05-27 | 2 | 39 | 15 | 13 | 15 | 70 |
-| 360d | 2025-11-28 | 2 | 69 | 18 | 22 | 18 | 118 |
-| last720d | 2024-12-03 | 4 | 95 | 20 | 55 | 35 | 302 |
+| 30d | 2026-10-25 | 0 | 0 | 9 | 0 | 4 | 0 |
+| last60d | 2026-09-25 | 0 | 11 | 13 | 0 | 6 | 14 |
+| 90d | 2026-08-26 | 0 | 12 | 14 | 2 | 7 | 16 |
+| last180d | 2026-05-28 | 2 | 39 | 15 | 13 | 15 | 70 |
+| 360d | 2025-11-29 | 2 | 69 | 18 | 22 | 18 | 118 |
+| last720d | 2024-12-04 | 4 | 95 | 20 | 55 | 35 | 302 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ hadolint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T06:18:08Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T08:53:43Z._
