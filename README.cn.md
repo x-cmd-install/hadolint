@@ -47,7 +47,7 @@ x install hadolint
 
 ## 流行度
 
-- **Star**: 12,547 · **Fork**: 514 · **开放 issue**: 698 · **贡献者**: 140
+- **Star**: 12,549 · **Fork**: 514 · **开放 issue**: 698 · **贡献者**: 140
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install hadolint
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 9 | 0 | 4 | 0 |
-| last60d | 2026-09-25 | 0 | 11 | 13 | 0 | 6 | 14 |
-| 90d | 2026-08-26 | 0 | 12 | 14 | 2 | 7 | 16 |
-| last180d | 2026-05-28 | 2 | 39 | 15 | 13 | 15 | 70 |
-| 360d | 2025-11-29 | 2 | 69 | 18 | 22 | 18 | 118 |
-| last720d | 2024-12-04 | 4 | 95 | 20 | 55 | 35 | 302 |
+| 30d | 2026-10-26 | 0 | 0 | 9 | 0 | 4 | 0 |
+| last60d | 2026-09-26 | 0 | 11 | 13 | 0 | 6 | 14 |
+| 90d | 2026-08-27 | 0 | 12 | 14 | 2 | 7 | 16 |
+| last180d | 2026-05-29 | 2 | 39 | 15 | 13 | 15 | 70 |
+| 360d | 2025-11-30 | 2 | 69 | 18 | 22 | 18 | 118 |
+| last720d | 2024-12-05 | 4 | 95 | 20 | 55 | 35 | 302 |
 
 ## Release 资产
 
@@ -75,16 +75,6 @@ x install hadolint
 | [hadolint-macos-x86_64](https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-macos-x86_64) | 22.3 MiB | `native/darwin/x64` |
 | [hadolint-windows-x86_64.exe](https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-windows-x86_64.exe) | 81.4 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/hadolint) 上共有 **34** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.15.1` | ✅ latest |
-| Fedora rawhide | `2.15.1` | ✅ latest |
-| Nix unstable | `2.14.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 hadolint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `hadolint` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -94,4 +84,4 @@ hadolint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T08:53:43Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T07:28:59Z._
